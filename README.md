@@ -28,7 +28,7 @@ Architecture hybride combinant cryptographie (ECDSA P-256), biométrie vocale (E
 
 | Projet | Thématique | Méthodologie / Standard | Description |
 | :--- | :--- | :--- | :--- |
-| [📁 Analyse de Risques EBIOS RM](https://github.com/Mavchris/ebios-rm-case-study) | Gestion des Risques | EBIOS RM / ISO 27005 | Étude de cas complète — 5 ateliers appliqués sur 3 périmètres variés (PME, OIV, SI critique). |
+| [📁 Analyse de Risques EBIOS RM](https://github.com/Mavchris/ebios-rm-case-study) | Gestion des Risques | EBIOS RM / ISO 27005 | Étude de cas complète : 5 ateliers appliqués sur 3 périmètres variés (PME, OIV, SI critique). |
 | [📁 Implémentation SMSI](https://github.com/Mavchris/smsi-iso27001-implementation) | SMSI | ISO/IEC 27001:2022 | Pack de déploiement : PSSI, Déclaration d'Applicabilité (SoA), plan de traitement, PCA/PRA. |
 | [📁 Audit & Contrôles SSI](https://github.com/Mavchris/audit-conformite-iso27001) | Audit & Conformité | ISO 27001 Annexe A / CIS | Grille d'évaluation, rapport d'audit simulé et plan de remédiation (CAPA). |
 
@@ -45,15 +45,15 @@ Architecture hybride combinant cryptographie (ECDSA P-256), biométrie vocale (E
 
 ### 🎓 Certifications
 
-- **EBIOS Risk Manager** — PECB (2025)
-- Endpoint Security — Cisco Networking Academy (2024)
-- Networking Devices & Initial Configuration — Cisco Networking Academy (2023)
-- Networking Basics — Cisco Networking Academy (2023)
-- Introduction to Cybersecurity — Cisco Networking Academy (2022)
+- **EBIOS Risk Manager** | PECB (2025)
+- Endpoint Security | Cisco Networking Academy (2024)
+- Networking Devices & Initial Configuration | Cisco Networking Academy (2023)
+- Networking Basics | Cisco Networking Academy (2023)
+- Introduction to Cybersecurity | Cisco Networking Academy (2022)
 
 ---
 
 ### 📬 Me contacter
 
-- **LinkedIn :** [linkedin.com/in/ngiamba-christian](https://linkedin.com/in/ngiamba-christian)
+- **LinkedIn :** [linkedin.com/in/ngiamba-christian](www.linkedin.com/in/ngiamba-christian-081294183)
 - **Email :** christian.ngiamba@telecom-paris.fr
