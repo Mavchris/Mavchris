@@ -19,7 +19,7 @@ J'aide les organisations à structurer leur sécurité de l'information, évalue
 
 ### 🔬 Projet de recherche phare
 
-**[VoiceDNA](https://github.com/Mavchris/voicedna)** — Certification de l'origine vocale à l'ère des deepfakes
+**[VoiceDNA](https://github.com/Mavchris/voicedna)**  Certification de l'origine vocale à l'ère des deepfakes
 Architecture hybride combinant cryptographie (ECDSA P-256), biométrie vocale (ECAPA-TDNN) et détection anti-spoof (AASIST) pour prouver qu'un audio appartient bien à une personne donnée; pas seulement détecter s'il est synthétique. Formalisation des propriétés de sécurité et modélisation des scénarios d'attaque (Dolev-Yao). Résultats validés sur plus de 70 000 fichiers audio (ASVspoof 2019). Article au format IEEE rédigé sous la direction de Matthieu Rambaud (Telecom Paris).
 
 ---
